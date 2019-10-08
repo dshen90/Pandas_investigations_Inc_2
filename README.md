@@ -99,3 +99,84 @@
 5. Moving Traffic Violations
 
 ![](Top5_males.png)
+
+
+
+## Arrest Charges by Area
+
+### Below is a graph depicting which arrest is most prevalent in each area
+
+1. Misc/ Other
+
+2. DUI
+
+3. Drunkeness
+
+4. Narcotics
+
+5. Prostitution
+
+![](most_ocurred_crime_by_location.png)
+
+
+### Below is a graph depicting which areas hold the largest amount of each type of arrest
+
+1.SouthWest
+
+2. 77th
+
+3. Pacific
+
+4.SouthEast
+
+5.HollyWood
+
+![](total_crime_by_area.png)
+
+
+### Below is a graph stacked with arrests involving vehicles
+
+1. 77th Street
+
+2. Pacific
+
+3. SouthWest
+
+4. SouthEast
+
+5. Newton
+
+![](bfc_locations.png)
+
+
+### Below is a graph stacked with arrests involving money
+
+1. SouthWest
+
+2. Pacific
+
+3. 77th
+
+4. SouthEast
+
+5. Newton
+
+![](wcc_locations.png)
+
+
+### Below is a graph stacked with serious arrests
+
+1. SouthWest
+
+2. 77th
+
+3. SouthEast
+
+4. Newton
+
+5. Pacific
+
+![](hc_locations.png)
+
+
+
