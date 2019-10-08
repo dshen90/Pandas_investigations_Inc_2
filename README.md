@@ -104,6 +104,8 @@
 
 ## Arrest Charges by Area
 
+![](arrests by area.png)
+
 ### Below is a graph depicting which arrest is most prevalent in each area
 
 1. Misc/ Other
