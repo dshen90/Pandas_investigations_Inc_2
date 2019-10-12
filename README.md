@@ -1,3 +1,9 @@
+## Arrest broken down by year
+![](ArrestByYear.PNG)
+
+## Arrest broken down by time
+![](ArrestByTime.PNG)
+
 ## Arrest Charges - Age Groups
 
 **Top 5 Types of Arrest Charges in LA: Misc, DUI, Narcotic Drug Laws, Drunkenness, Moving Traffic Violations**
